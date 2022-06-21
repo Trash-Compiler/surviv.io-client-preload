@@ -1,0 +1,21 @@
+Official surviv.io proxy sites
+
+https://surviv2.io
+https://2dbattleroyale.com
+https://2dbattleroyale.org
+https://piearesquared.info
+https://thecircleisclosing.com
+https://secantsecant.com
+https://parmainitiative.com
+https://ot38.club
+https://drchandlertallow.com
+https://rarepotato.com
+https://archimedesofsyracuse.info
+https://nevelskoygroup.com
+https://kugahi.com
+https://kugaheavyindustry.com
+https://chandlertallowmd.com
+
+Google logins work on all of the above sites.
+Discord logins work on all of the above sites.
+Facebook and Twitch logins do not work on proxy sites.
